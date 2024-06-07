@@ -1,0 +1,33 @@
+# Ignore Visual Studio files
+.vs/
+*.vscode/
+*.suo
+*.user
+*.sln.docstates
+
+# Ignore NuGet packages
+*.nuget/
+packages/
+
+# Ignore build output
+bin/
+obj/
+
+# Ignore user-specific files
+*.DS_Store
+Thumbs.db
+
+# Ignore log files
+*.log
+
+# Ignore .NET Core artifacts
+*.dll
+*.pdb
+*.dll.config
+*.exe
+*.cache
+*.log
+*.vsix
+project.lock.json
+project.fragment.lock.json
+*.vcxproj.user
