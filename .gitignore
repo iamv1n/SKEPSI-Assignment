@@ -13,6 +13,11 @@ packages/
 bin/
 obj/
 
+# Test Results
+[Tt]est[Rr]esults*/
+TestResults/*
+TestResults/
+
 # Ignore user-specific files
 *.DS_Store
 Thumbs.db
